@@ -1,0 +1,19 @@
+
+
+
+-2 : EXAMPLE
+-1 : EXAMPLE
+ 0 : EXAMPLE ## "EXAMPLE" is reserved word for example code.
+
+ 1 : MANDELA ## <-- Plugin Project =="AAC2020_PLUGINS_MANDELA"
+             ##     All plugins must be 7 letters.
+             ##     All plugin projects must be in the form of:
+             ##    "AAC2020_PLUGINS_*******"
+             ##   
+             ##     Where "*******" is the plugin name.
+             ##     (Here the plugin name is "MANDELA")
+             ##
+             ## <-- TWO(2) hashtags is a comment.
+
+ 2 : EXAMPLE
+ 3 : EXAMPLE
